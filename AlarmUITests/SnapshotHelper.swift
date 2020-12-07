@@ -2,8 +2,8 @@
 //  SnapshotHelper.swift
 //  Example
 //
-//  Created by Felix Krause on 10/8/15.
-//  Copyright © 2015 Felix Krause. All rights reserved.
+//  Created by James Talano on 10/8/15.
+//  Copyright © 2015 James Talano. All rights reserved.
 //
 
 import Foundation

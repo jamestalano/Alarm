@@ -2,8 +2,8 @@
 //  Item.swift
 //  Alarm
 //
-//  Created by Lasha Efremidze on 2/5/17.
-//  Copyright © 2017 Lasha Efremidze. All rights reserved.
+//  Created by James Talano on 2/5/17.
+//  Copyright © 2017 James Talano. All rights reserved.
 //
 
 import Foundation

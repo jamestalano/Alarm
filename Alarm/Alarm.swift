@@ -2,8 +2,8 @@
 //  Alarm.swift
 //  Alarm
 //
-//  Created by Lasha Efremidze on 1/13/17.
-//  Copyright © 2017 More Voltage. All rights reserved.
+//  Created by James Talano on 1/13/17.
+//  Copyright © 2017 James Talano. All rights reserved.
 //
 
 import UserNotifications
